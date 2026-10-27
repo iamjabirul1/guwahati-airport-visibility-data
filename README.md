@@ -10,7 +10,7 @@ to leave.
 
 From **63,573 half-hourly routine reports** (January 2023 to October 2026, local time):
 
-| Period | Reports below 2000 m | Reports below 1500 m |
+| Period | Reports below 1.5 mi (2.4 km) | Reports below 1.0 mi (1.6 km) |
 |---|---:|---:|
 | December, January, February | 49.7% | 15.9% |
 | All other months | 9.8% | 1.1% |
@@ -43,6 +43,7 @@ the airport looks like this", not "how often your flight is late".
 | `paper/visibility-note.md` | The short write-up (the same note is deposited on Zenodo for citation) |
 | `tool/northeast-trip-planner.html` | A static copy of the free Northeast India trip planner this data feeds |
 | `privacy.md` | Privacy policy for the companion Chrome extension |
+| `CITATION.cff`, `.zenodo.json` | Citation metadata: GitHub's "Cite this repository" and the Zenodo deposit form |
 
 ## Reproduce it
 

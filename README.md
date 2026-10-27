@@ -1,5 +1,7 @@
 # Guwahati airport (LGBI / VEGT): visibility and transfer reference data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23699996.svg)](https://doi.org/10.5281/zenodo.23699996)
+
 Open data about Lokpriya Gopinath Bordoloi International Airport, Guwahati, published by
 [Hotel Shiny Grand](https://hotelshinygrand.online), a 35-room hotel in Borjhar, 1.7 km from
 Terminal 2. Two things live here: three and a half years of routine airport visibility
@@ -71,5 +73,12 @@ public domain). If you reuse the numbers, credit the archive and the original ob
 
 ## Citing
 
-The note is deposited on Zenodo so it can be cited with a DOI. The DOI will be listed here
-once the deposit is live; until then, cite the repository URL and the fetch date.
+The data and the note are deposited on Zenodo: **[10.5281/zenodo.23699996](https://doi.org/10.5281/zenodo.23699996)**
+— the concept DOI, which always resolves to the newest version. The current version, v1.1.0, is
+[10.5281/zenodo.23699997](https://doi.org/10.5281/zenodo.23699997).
+
+Suggested citation for the release:
+
+> Hotel Shiny Grand (2026). *Guwahati airport (LGBI / VEGT) visibility observations and
+> terminal-transfer reference, 2023–2026* (v1.1.0) [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.23699997

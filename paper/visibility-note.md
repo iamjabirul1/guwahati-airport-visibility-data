@@ -44,7 +44,7 @@ For arrivals the pattern matters less: fog burns off through the morning, and a 
 
 ## Suggested citation
 
-> Hotel Shiny Grand (2026). *When Guwahati's airport sits in fog: half-hourly visibility observations at LGBI (VEGT), 2023–2026.* Zenodo. https://doi.org/&lt;DOI&gt;
+> Hotel Shiny Grand (2026). *When Guwahati's airport sits in fog: half-hourly visibility observations at LGBI (VEGT), 2023–2026.* Zenodo. https://doi.org/10.5281/zenodo.23699996
 
 ## Disclosure
 

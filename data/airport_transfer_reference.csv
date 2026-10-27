@@ -1,0 +1,7 @@
+item,value,unit,basis,note
+Hotel Shiny Grand to Terminal 1,0.45,km,owner-stated 2026-10-23,"About 450 m; driver-side check before relying on it"
+Hotel Shiny Grand to Terminal 2,1.7,km,owner-stated 2026-10-23,"About 5 minutes by road in normal conditions"
+Hotel Shiny Grand to Terminal 2,5,minutes,owner-stated 2026-10-23,"Normal traffic"
+Domestic reporting time before departure,120,minutes,"airline general guidance (editorial)","Not an airport-authority figure; airlines set their own cut-off"
+International reporting time before departure,180,minutes,"airline general guidance (editorial)","Not an airport-authority figure; airlines set their own cut-off"
+Terminal exit after landing,45,minutes,"editorial buffer","Assumes checked bags; hand baggage is usually faster"

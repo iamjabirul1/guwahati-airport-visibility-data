@@ -43,6 +43,7 @@ the airport looks like this", not "how often your flight is late".
 | `paper/visibility-note.md` | The short write-up (the same note is deposited on Zenodo for citation) |
 | `tool/northeast-trip-planner.html` | A static copy of the free Northeast India trip planner this data feeds |
 | `privacy.md` | Privacy policy for the companion Chrome extension |
+| `decks/index.html` | Twenty travel decks (PDF and HTML) built from this data and the hotel's notes: fog behaviour, the 2026-27 events, routes, transfers and wedding planning |
 | `CITATION.cff`, `.zenodo.json` | Citation metadata: GitHub's "Cite this repository" and the Zenodo deposit form |
 
 ## Reproduce it
